@@ -1,0 +1,38 @@
+State,State_code,Red_Zone,Orange_Zone,Green_Zone
+Maharashtra,MH,14,16,6
+Tamil Nadu,TN,12,24,1
+Delhi,DL,11,0,0
+Kerala,KL,2,10,2
+Telangana,TG,6,18,9
+Uttar Pradesh,UP,19,36,20
+Rajasthan,RJ,8,19,6
+Andhra Pradesh,AP,5,7,1
+Madhya Pradesh,MP,9,19,24
+Karnataka,KA,3,13,14
+Gujarat,GJ,9,19,5
+Jammu and Kashmir,JK,0,0,0
+Haryana,HR,2,18,2
+Punjab,PB,3,15,4
+West Bengal,WB,10,5,8
+Bihar,BR,5,20,13
+Assam,AS,0,3,30
+Uttarakhand,UT,1,2,10
+Odisha,OR,0,0,0
+Chandigarh,CH,1,0,0
+Ladakh,LA,0,2,0
+Andaman and Nicobar Islands,AN,0,0,0
+Chhattisgarh,CT,1,1,25
+Goa,GA,0,0,2
+Himachal Pradesh,HP,0,6,6
+Puducherry,PY,0,1,3
+Jharkhand,JH,1,9,14
+Manipur,MN,0,0,16
+Mizoram,MZ,0,0,11
+Arunachal Pradesh,AR,0,0,25
+Dadra and Nagar Haveli,DN,0,0,0
+Daman and Diu,DD,0,0,0
+Lakshadweep,LD,0,0,1
+Meghalaya,ML,0,1,10
+Nagaland,NL,0,0,11
+Sikkim,SK,0,0,4
+Tripura,TR,0,2,6

@@ -1,0 +1,734 @@
+District,State,Zone
+South Andamans,Andaman And Nicobar Islands,Red Zone
+Nicobars,Andaman And Nicobar Islands,Green Zone
+North And Middle Andaman,Andaman And Nicobar Islands,Green Zone
+Kurnool,Andhra Pradesh,Red Zone
+Guntur,Andhra Pradesh,Red Zone
+Krishna,Andhra Pradesh,Red Zone
+Chittoor,Andhra Pradesh,Red Zone
+Spsr Nellore,Andhra Pradesh,Red Zone
+West Godavari,Andhra Pradesh,Orange Zone
+YSR,Andhra Pradesh,Orange Zone
+Anantapur,Andhra Pradesh,Orange Zone
+Prakasam,Andhra Pradesh,Orange Zone
+East Godavari,Andhra Pradesh,Orange Zone
+Srikakulam,Andhra Pradesh,Orange Zone
+Visakhapatanam,Andhra Pradesh,Orange Zone
+Vizianagaram,Andhra Pradesh,Green Zone
+Lohit,Arunachal Pradesh,Green Zone
+Changlang,Arunachal Pradesh,Green Zone
+Dibang Valley,Arunachal Pradesh,Green Zone
+East Kameng,Arunachal Pradesh,Green Zone
+East Siang,Arunachal Pradesh,Green Zone
+KurungKumey,Arunachal Pradesh,Green Zone
+Lower Dibang Valley,Arunachal Pradesh,Green Zone
+Lower Subansiri,Arunachal Pradesh,Green Zone
+Papum Pare,Arunachal Pradesh,Green Zone
+Tawang,Arunachal Pradesh,Green Zone
+Tirap,Arunachal Pradesh,Green Zone
+Upper Siang,Arunachal Pradesh,Green Zone
+Upper Subansiri,Arunachal Pradesh,Green Zone
+West Kameng,Arunachal Pradesh,Green Zone
+West Siang,Arunachal Pradesh,Green Zone
+Anjaw,Arunachal Pradesh,Green Zone
+Longding,Arunachal Pradesh,Green Zone
+KraDaadi,Arunachal Pradesh,Green Zone
+Namsai,Arunachal Pradesh,Green Zone
+Siang,Arunachal Pradesh,Green Zone
+Kamle,Arunachal Pradesh,Green Zone
+Lower Siang,Arunachal Pradesh,Green Zone
+PakkeKessang,Arunachal Pradesh,Green Zone
+Leparada,Arunachal Pradesh,Green Zone
+Shi Yomi,Arunachal Pradesh,Green Zone
+Dhubri,Assam,Orange Zone
+Marigaon,Assam,Orange Zone
+Goalpara,Assam,Orange Zone
+Golaghat,Assam,Green Zone
+Karimganj,Assam,Green Zone
+Nalbari,Assam,Green Zone
+Hailakandi,Assam,Green Zone
+Cachar,Assam,Green Zone
+Kamrup,Assam,Green Zone
+Lakhimpur,Assam,Green Zone
+Kamrup Metro,Assam,Green Zone
+South SalmaraMancachar,Assam,Green Zone
+Barpeta,Assam,Green Zone
+Bongaigaon,Assam,Green Zone
+Darrang,Assam,Green Zone
+Dhemaji,Assam,Green Zone
+Dibrugarh,Assam,Green Zone
+Jorhat,Assam,Green Zone
+KarbiAnglong,Assam,Green Zone
+Kokrajhar,Assam,Green Zone
+Nagaon,Assam,Green Zone
+Dima Hasao,Assam,Green Zone
+Sivasagar,Assam,Green Zone
+Sonitpur,Assam,Green Zone
+Tinsukia,Assam,Green Zone
+Chi rang,Assam,Green Zone
+Baksa,Assam,Green Zone
+Udalguri,Assam,Green Zone
+Biswanath,Assam,Green Zone
+Majuli,Assam,Green Zone
+Charaideo,Assam,Green Zone
+Hojai,Assam,Green Zone
+West KarbiAnglong,Assam,Green Zone
+Munger,Bihar,Red Zone
+Patna,Bihar,Red Zone
+Rohtas,Bihar,Red Zone
+Buxar,Bihar,Red Zone
+Gaya,Bihar,Red Zone
+Nalanda,Bihar,Orange Zone
+Kaimur (Bhabua),Bihar,Orange Zone
+Siwan,Bihar,Orange Zone
+Gopalganj,Bihar,Orange Zone
+Bhojpur,Bihar,Orange Zone
+Begusarai,Bihar,Orange Zone
+Aurangabad,Bihar,Orange Zone
+Madhubani,Bihar,Orange Zone
+Purbi Champaran,Bihar,Orange Zone
+Bhagalpur,Bihar,Orange Zone
+Arwal,Bihar,Orange Zone
+Saran,Bihar,Orange Zone
+Nawada,Bihar,Orange Zone
+Lakhisarai,Bihar,Orange Zone
+Banka,Bihar,Orange Zone
+Vaishali,Bihar,Orange Zone
+Darbhanga,Bihar,Orange Zone
+Jehanabad,Bihar,Orange Zone
+Madhepura,Bihar,Orange Zone
+Purnia,Bihar,Orange Zone
+Sheikhpura,Bihar,Green Zone
+Araria,Bihar,Green Zone
+Jamui,Bihar,Green Zone
+Katihar,Bihar,Green Zone
+Khagaria,Bihar,Green Zone
+Kishanganj,Bihar,Green Zone
+Muzaffarpur,Bihar,Green Zone
+Pashchim Champaran,Bihar,Green Zone
+Saharsa,Bihar,Green Zone
+Samastipur,Bihar,Green Zone
+Sheohar,Bihar,Green Zone
+Sitamarhi,Bihar,Green Zone
+Supaul,Bihar,Green Zone
+Chandigarh,Chandigarh,Red Zone
+Raipur,Chhattisgarh,Red Zone
+Korba,Chhattisgarh,Orange Zone
+Surajpur,Chhattisgarh,Green Zone
+Bilaspur,Chhattisgarh,Green Zone
+Durg,Chhattisgarh,Green Zone
+Rajnandgaon,Chhattisgarh,Green Zone
+Ba star,Chhattisgarh,Green Zone
+Dantewada,Chhattisgarh,Green Zone
+Dhamtari,Chhattisgarh,Green Zone
+Janjgir-Champa,Chhattisgarh,Green Zone
+Jashpur,Chhattisgarh,Green Zone
+Kanker,Chhattisgarh,Green Zone
+Kabirdham,Chhattisgarh,Green Zone
+Korea,Chhattisgarh,Green Zone
+Mahasamund,Chhattisgarh,Green Zone
+Raigarh,Chhattisgarh,Green Zone
+Surguja,Chhattisgarh,Green Zone
+Bijapur,Chhattisgarh,Green Zone
+Narayanpur,Chhattisgarh,Green Zone
+Sukma,Chhattisgarh,Green Zone
+Kondagaon,Chhattisgarh,Green Zone
+Baloda Bazar,Chhattisgarh,Green Zone
+Gariyaband,Chhattisgarh,Green Zone
+Balod,Chhattisgarh,Green Zone
+Mungeli,Chhattisgarh,Green Zone
+Balrampur,Chhattisgarh,Green Zone
+Bemetara,Chhattisgarh,Green Zone
+Dadra And Nagar Haveli,Dadra And Nagar Haveli,Green Zone
+Daman,Daman And Diu,Green Zone
+Diu,Daman And Diu,Green Zone
+South East,Delhi,Red Zone
+Central,Delhi,Red Zone
+North,Delhi,Red Zone
+South,Delhi,Red Zone
+North East,Delhi,Red Zone
+West,Delhi,Red Zone
+Shahdara,Delhi,Red Zone
+East,Delhi,Red Zone
+New Delhi,Delhi,Red Zone
+North West,Delhi,Red Zone
+South West,Delhi,Red Zone
+North Goa,Goa,Green Zone
+South Goa,Goa,Green Zone
+Ahmadabad,Gujarat,Red Zone
+Surat,Gujarat,Red Zone
+Vadodara,Gujarat,Red Zone
+Anand,Gujarat,Red Zone
+Banas Kantha,Gujarat,Red Zone
+Panch Mahals,Gujarat,Red Zone
+Bhavnagar,Gujarat,Red Zone
+Gandhinagar,Gujarat,Red Zone
+ArvaIii,Gujarat,Red Zone
+Rajkot,Gujarat,Orange Zone
+Bharuch,Gujarat,Orange Zone
+Botad,Gujarat,Orange Zone
+Narmada,Gujarat,Orange Zone
+Chhotaudepur,Gujarat,Orange Zone
+Mahisagar,Gujarat,Orange Zone
+Mahesana,Gujarat,Orange Zone
+Patan,Gujarat,Orange Zone
+Kheda,Gujarat,Orange Zone
+Valsad,Gujarat,Orange Zone
+Dohad,Gujarat,Orange Zone
+Kachchh,Gujarat,Orange Zone
+Navsari,Gujarat,Orange Zone
+GirSomnath,Gujarat,Orange Zone
+Dang,Gujarat,Orange Zone
+SabarKantha,Gujarat,Orange Zone
+Tapi,Gujarat,Orange Zone
+Jamnagar,Gujarat,Orange Zone
+Surendranagar,Gujarat,Orange Zone
+Morbi,Gujarat,Green Zone
+Amreli,Gujarat,Green Zone
+Porbandar,Gujarat,Green Zone
+Junagadh,Gujarat,Green Zone
+Devbhumi Dwarka,Gujarat,Green Zone
+Sonipat,Haryana,Red Zone
+Faridabad,Haryana,Red Zone
+Gurugram,Haryana,Orange Zone
+Nuh,Haryana,Orange Zone
+Panipat,Haryana,Orange Zone
+Panchkula,Haryana,Orange Zone
+Palwal,Haryana,Orange Zone
+Rohtak,Haryana,Orange Zone
+Hisar,Haryana,Orange Zone
+Ambala,Haryana,Orange Zone
+Jhajjar,Haryana,Orange Zone
+Bhiwani,Haryana,Orange Zone
+Kaithal,Haryana,Orange Zone
+Kurukshetra,Haryana,Orange Zone
+Karna I,Haryana,Orange Zone
+Jind,Haryana,Orange Zone
+Sirsa,Haryana,Orange Zone
+Yamunanagar,Haryana,Orange Zone
+Fatehabad,Haryana,Orange Zone
+Charki Dadri,Haryana,Orange Zone
+Mahendragarh,Haryana,Green Zone
+Rewari,Haryana,Green Zone
+Una,Himachal Pradesh,Orange Zone
+Chamba,Himachal Pradesh,Orange Zone
+Hamirpur,Himachal Pradesh,Orange Zone
+Kangra,Himachal Pradesh,Orange Zone
+Sirmaur,Himachal Pradesh,Orange Zone
+Solan,Himachal Pradesh,Orange Zone
+Bilaspur,Himachal Pradesh,Green Zone
+Kinnaur,Himachal Pradesh,Green Zone
+Kullu,Himachal Pradesh,Green Zone
+Lahul And Spiti,Himachal Pradesh,Green Zone
+Mandi,Himachal Pradesh,Green Zone
+Shimla,Himachal Pradesh,Green Zone
+Bandipora,Jammu And Kashmir,Red Zone
+Shopian,Jammu And Kashmir,Red Zone
+Anantnag,Jammu And Kashmir,Red Zone
+Srinagar,Jammu And Kashmir,Red Zone
+Baramulla,Jammu And Kashmir,Orange Zone
+Kupwara,Jammu And Kashmir,Orange Zone
+Ganderbal,Jammu And Kashmir,Orange Zone
+Jammu,Jammu And Kashmir,Orange Zone
+Udhampur,Jammu And Kashmir,Orange Zone
+Kulgam,Jammu And Kashmir,Orange Zone
+Budgam,Jammu And Kashmir,Orange Zone
+Samba,Jammu And Kashmir,Orange Zone
+Kathua,Jammu And Kashmir,Orange Zone
+Rajouri,Jammu And Kashmir,Orange Zone
+Ramban,Jammu And Kashmir,Orange Zone
+Reasi,Jammu And Kashmir,Orange Zone
+Pulwama,Jammu And Kashmir,Green Zone
+Kishtwar,Jammu And Kashmir,Green Zone
+Doda,Jammu And Kashmir,Green Zone
+Poonch,Jammu And Kashmir,Green Zone
+Ranchi,Jharkhand,Red Zone
+Bokaro,Jharkhand,Orange Zone
+Garhwa,Jharkhand,Orange Zone
+Dhanbad,Jharkhand,Orange Zone
+Deoghar,Jharkhand,Orange Zone
+Hazaribagh,Jharkhand,Orange Zone
+Simdega,Jharkhand,Orange Zone
+Giridih,Jharkhand,Orange Zone
+Koderma,Jharkhand,Orange Zone
+Jamtara,Jharkhand,Orange Zone
+Chatra,Jharkhand,Green Zone
+Dumka,Jharkhand,Green Zone
+East Singhbum,Jharkhand,Green Zone
+Godda,Jharkhand,Green Zone
+Gumla,Jharkhand,Green Zone
+Latehar,Jharkhand,Green Zone
+Lohardaga,Jharkhand,Green Zone
+Pakur,Jharkhand,Green Zone
+Palamu,Jharkhand,Green Zone
+Sahebganj,Jharkhand,Green Zone
+Saraikela Kharsawan,Jharkhand,Green Zone
+West Singhbhum,Jharkhand,Green Zone
+Khunti,Jharkhand,Green Zone
+Ramgarh,Jharkhand,Green Zone
+Bengaluru Urban,Karnataka,Red Zone
+Mysuru,Karnataka,Red Zone
+Bengaluru Rural,Karnataka,Red Zone
+Belagavi,Karnataka,Orange Zone
+Vijayapura,Karnataka,Orange Zone
+Kalaburagi,Karnataka,Orange Zone
+Bagalkote,Karnataka,Orange Zone
+Mandya,Karnataka,Orange Zone
+Ballari,Karnataka,Orange Zone
+Dharwad,Karnataka,Orange Zone
+Dakshina Kannada,Karnataka,Orange Zone
+Bidar,Karnataka,Orange Zone
+Chikkaballapura,Karnataka,Orange Zone
+Gadag,Karnataka,Orange Zone
+Uttara Kannada,Karnataka,Orange Zone
+Tumakuru,Karnataka,Orange Zone
+Davangere,Karnataka,Green Zone
+Udupi,Karnataka,Green Zone
+Chamarajanagara,Karnataka,Green Zone
+Chikkamagaluru,Karnataka,Green Zone
+Chitradurga,Karnataka,Green Zone
+Hassan,Karnataka,Green Zone
+Haveri,Karnataka,Green Zone
+Kodagu,Karnataka,Green Zone
+Kolar,Karnataka,Green Zone
+Koppa I,Karnataka,Green Zone
+Raichur,Karnataka,Green Zone
+Shivamogga,Karnataka,Green Zone
+Ramanagara,Karnataka,Green Zone
+Yadgir,Karnataka,Green Zone
+Kannur,Kerala,Red Zone
+Kottayam,Kerala,Red Zone
+Kasaragod,Kerala,Orange Zone
+ldukki,Kerala,Orange Zone
+Kozhikode,Kerala,Orange Zone
+Kollam,Kerala,Orange Zone
+Palakkad,Kerala,Orange Zone
+Pathanamthitta,Kerala,Orange Zone
+Malappuram,Kerala,Orange Zone
+Thiruvananthapuram,Kerala,Orange Zone
+Alappuzha,Kerala,Orange Zone
+Thrissur,Kerala,Orange Zone
+Ernakulam,Kerala,Green Zone
+Wayanad,Kerala,Green Zone
+Lehladakh,Ladakh,Orange Zone
+Kargil,Ladakh,Orange Zone
+Lakshadweep District,Lakshadweep,Green Zone
+Indore,Madhya Pradesh,Red Zone
+Bhopal,Madhya Pradesh,Red Zone
+Ujjain,Madhya Pradesh,Red Zone
+Jabalpur,Madhya Pradesh,Red Zone
+Dhar,Madhya Pradesh,Red Zone
+Barwani,Madhya Pradesh,Red Zone
+East Nimar,Madhya Pradesh,Red Zone
+Dewas,Madhya Pradesh,Red Zone
+Gwalior,Madhya Pradesh,Red Zone
+Khargone,Madhya Pradesh,Orange Zone
+Raisen,Madhya Pradesh,Orange Zone
+Hoshangabad,Madhya Pradesh,Orange Zone
+Ratlam,Madhya Pradesh,Orange Zone
+Agar Malwa,Madhya Pradesh,Orange Zone
+Mandsaur,Madhya Pradesh,Orange Zone
+Sagar,Madhya Pradesh,Orange Zone
+Shajapur,Madhya Pradesh,Orange Zone
+Chhindwara,Madhya Pradesh,Orange Zone
+Alirajpur,Madhya Pradesh,Orange Zone
+Tikamgarh,Madhya Pradesh,Orange Zone
+Shahdol,Madhya Pradesh,Orange Zone
+Sheopur,Madhya Pradesh,Orange Zone
+Dindori,Madhya Pradesh,Orange Zone
+Burhanpur,Madhya Pradesh,Orange Zone
+Harda,Madhya Pradesh,Orange Zone
+Betul,Madhya Pradesh,Orange Zone
+Vidisha,Madhya Pradesh,Orange Zone
+Morena,Madhya Pradesh,Orange Zone
+Rewa,Madhya Pradesh,Green Zone
+Ashoknagar,Madhya Pradesh,Green Zone
+Rajgarh,Madhya Pradesh,Green Zone
+Shivpuri,Madhya Pradesh,Green Zone
+Anuppur,Madhya Pradesh,Green Zone
+Balaghat,Madhya Pradesh,Green Zone
+Bhind,Madhya Pradesh,Green Zone
+Chhatarpur,Madhya Pradesh,Green Zone
+Da oh,Madhya Pradesh,Green Zone
+Datia,Madhya Pradesh,Green Zone
+Guna,Madhya Pradesh,Green Zone
+Jhabua,Madhya Pradesh,Green Zone
+Katni,Madhya Pradesh,Green Zone
+Mandia,Madhya Pradesh,Green Zone
+Narsinghpur,Madhya Pradesh,Green Zone
+Nee much,Madhya Pradesh,Green Zone
+Panna,Madhya Pradesh,Green Zone
+Satna,Madhya Pradesh,Green Zone
+Sehore,Madhya Pradesh,Green Zone
+Seoni,Madhya Pradesh,Green Zone
+Sid hi,Madhya Pradesh,Green Zone
+Umaria,Madhya Pradesh,Green Zone
+Singrauli,Madhya Pradesh,Green Zone
+Niwari,Madhya Pradesh,Green Zone
+Mumbai,Maharashtra,Red Zone
+Pune,Maharashtra,Red Zone
+Thane,Maharashtra,Red Zone
+Nashik,Maharashtra,Red Zone
+Palghar,Maharashtra,Red Zone
+Nagpur,Maharashtra,Red Zone
+Solapur,Maharashtra,Red Zone
+Yavatmal,Maharashtra,Red Zone
+Aurangabad,Maharashtra,Red Zone
+Satara,Maharashtra,Red Zone
+Dhule,Maharashtra,Red Zone
+Ako la,Maharashtra,Red Zone
+Jalgaon,Maharashtra,Red Zone
+Mumbai Suburban,Maharashtra,Red Zone
+Raigad,Maharashtra,Orange Zone
+Ahmednagar,Maharashtra,Orange Zone
+Amravati,Maharashtra,Orange Zone
+Buldhana,Maharashtra,Orange Zone
+Nandurbar,Maharashtra,Orange Zone
+Kolhapur,Maharashtra,Orange Zone
+Hingoli,Maharashtra,Orange Zone
+Ratnagiri,Maharashtra,Orange Zone
+Jalna,Maharashtra,Orange Zone
+Nanded,Maharashtra,Orange Zone
+Chandrapur,Maharashtra,Orange Zone
+Parbhani,Maharashtra,Orange Zone
+Sangli,Maharashtra,Orange Zone
+Latur,Maharashtra,Orange Zone
+Bhandara,Maharashtra,Orange Zone
+Beed,Maharashtra,Orange Zone
+Osmanabad,Maharashtra,Green Zone
+Washim,Maharashtra,Green Zone
+Sindhudurg,Maharashtra,Green Zone
+Gandia,Maharashtra,Green Zone
+Gadchiroli,Maharashtra,Green Zone
+Wardha,Maharashtra,Green Zone
+Imphal West,Manipur,Green Zone
+Thoubal,Manipur,Green Zone
+Bishnupur,Manipur,Green Zone
+Chandel,Manipur,Green Zone
+Churachandpur,Manipur,Green Zone
+Imphal East,Manipur,Green Zone
+Senapati,Manipur,Green Zone
+Tamenglong,Manipur,Green Zone
+Ukhrul,Manipur,Green Zone
+Kakching,Manipur,Green Zone
+Kangpokpi,Manipur,Green Zone
+Jiribam,Manipur,Green Zone
+Nonev,Manipur,Green Zone
+Pherzawl,Manipur,Green Zone
+Tengnoupal,Manipur,Green Zone
+Kamjong,Manipur,Green Zone
+East Khasi Hills,Meghalaya,Orange Zone
+East Garo Hills,Meghalaya,Green Zone
+West Jaintia Hills,Meghalaya,Green Zone
+Ri Bhoi,Meghalaya,Green Zone
+South Garo Hills,Meghalaya,Green Zone
+West Garo Hills,Meghalaya,Green Zone
+West Khasi Hills,Meghalaya,Green Zone
+North Garo Hills,Meghalaya,Green Zone
+East Jaintia Hills,Meghalaya,Green Zone
+South West Khasi Hills,Meghalaya,Green Zone
+South West Garo Hills,Meghalaya,Green Zone
+Aizawl,Mizoram,Green Zone
+Champhai,Mizoram,Green Zone
+Kolasib,Mizoram,Green Zone
+Lawngtlai,Mizoram,Green Zone
+Lunglei,Mizoram,Green Zone
+Mamit,Mizoram,Green Zone
+Saiha,Mizoram,Green Zone
+Serchhip,Mizoram,Green Zone
+Hnahthial,Mizoram,Green Zone
+Saitual,Mizoram,Green Zone
+Khawzawl,Mizoram,Green Zone
+Dimapur,Nagaland,Green Zone
+Kohima,Nagaland,Green Zone
+Mokokchung,Nagaland,Green Zone
+Mon,Nagaland,Green Zone
+Phek,Nagaland,Green Zone
+Tuensang,Nagaland,Green Zone
+Wokha,Nagaland,Green Zone
+Zunheboto,Nagaland,Green Zone
+Peren,Nagaland,Green Zone
+Kiphire,Nagaland,Green Zone
+Longleng,Nagaland,Green Zone
+Jajapur,Orrisa,Red Zone
+Bhadrak,Orrisa,Red Zone
+Baleshwar,Orrisa,Red Zone
+Khordha,Orrisa,Orange Zone
+Sundargarh,Orrisa,Orange Zone
+Kendrapara,Orrisa,Orange Zone
+Kora put,Orrisa,Orange Zone
+Dhenkanal,Orrisa,Orange Zone
+Kalahandi,Orrisa,Orange Zone
+Cuttack,Orrisa,Green Zone
+Puri,Orrisa,Green Zone
+Anugul,Orrisa,Green Zone
+Balangir,Orrisa,Green Zone
+Bargarh,Orrisa,Green Zone
+Boudh,Orrisa,Green Zone
+Deogarh,Orrisa,Green Zone
+Gajapati,Orrisa,Green Zone
+Ganjam,Orrisa,Green Zone
+Jagatsinghapu r,Orrisa,Green Zone
+Jharsuguda,Orrisa,Green Zone
+Kandhamal,Orrisa,Green Zone
+Kendujhar,Orrisa,Green Zone
+Malkangiri,Orrisa,Green Zone
+Mayurbhanj,Orrisa,Green Zone
+Nabarangpur,Orrisa,Green Zone
+Nayagarh,Orrisa,Green Zone
+Nuapada,Orrisa,Green Zone
+Rayagada,Orrisa,Green Zone
+Sambalpur,Orrisa,Green Zone
+Sonepur,Orrisa,Green Zone
+Pondicherry,Puducherry,Orange Zone
+Karaikal,Puducherry,Green Zone
+Mahe,Puducherry,Green Zone
+Yanam,Puducherry,Green Zone
+Jalandhar,Punjab,Red Zone
+Patiala,Punjab,Red Zone
+Ludhiana,Punjab,Red Zone
+SAS Nagar,Punjab,Orange Zone
+Pathankot,Punjab,Orange Zone
+Mansa,Punjab,Orange Zone
+Tarn Taran,Punjab,Orange Zone
+Amritsar,Punjab,Orange Zone
+Kapurthala,Punjab,Orange Zone
+Hoshiarpur,Punjab,Orange Zone
+Faridkot,Punjab,Orange Zone
+Sangrur,Punjab,Orange Zone
+Shahid Bhagat Singh Nagar (Nawanshahr),Punjab,Orange Zone
+Firozepur,Punjab,Orange Zone
+Sri Muktsar Sahib,Punjab,Orange Zone
+Moga,Punjab,Orange Zone
+Gurdaspur,Punjab,Orange Zone
+Barna la,Punjab,Orange Zone
+Rupnagar (Ropar),Punjab,Green Zone
+Fatehgarh Sahib,Punjab,Green Zone
+Bathinda,Punjab,Green Zone
+Fazilka,Punjab,Green Zone
+Jaipur,Rajasthan,Red Zone
+Jodhpur,Rajasthan,Red Zone
+Kota,Rajasthan,Red Zone
+Ajmer,Rajasthan,Red Zone
+Bharatpur,Rajasthan,Red Zone
+Nagaur,Rajasthan,Red Zone
+Banswara,Rajasthan,Red Zone
+Jhalawar,Rajasthan,Red Zone
+Tonk,Rajasthan,Orange Zone
+Jaisalmer,Rajasthan,Orange Zone
+Dausa,Rajasthan,Orange Zone
+Jhunjhunu,Rajasthan,Orange Zone
+Hanumangarh,Rajasthan,Orange Zone
+Bhilwara,Rajasthan,Orange Zone
+Sawai Madhaopur,Rajasthan,Orange Zone
+Chittorgarh,Rajasthan,Orange Zone
+Dungarpur,Rajasthan,Orange Zone
+Udaipur,Rajasthan,Orange Zone
+Dholpur,Rajasthan,Orange Zone
+Sikar,Rajasthan,Orange Zone
+Alwar,Rajasthan,Orange Zone
+Bikaner,Rajasthan,Orange Zone
+Churu,Rajasthan,Orange Zone
+Pali,Rajasthan,Orange Zone
+Barmer,Rajasthan,Orange Zone
+Karauli,Rajasthan,Orange Zone
+Rajsamand,Rajasthan,Orange Zone
+Baran,Rajasthan,Green Zone
+Bundi,Rajasthan,Green Zone
+Ganganagar,Rajasthan,Green Zone
+Jalore,Rajasthan,Green Zone
+Sirohi,Rajasthan,Green Zone
+Pratapgarh,Rajasthan,Green Zone
+North District,Sikkim,Green Zone
+East District,Sikkim,Green Zone
+South District,Sikkim,Green Zone
+West District,Sikkim,Green Zone
+Chennai,Tamil Nadu,Red Zone
+Madurai,Tamil Nadu,Red Zone
+Namakkal,Tamil Nadu,Red Zone
+Thanjavur,Tamil Nadu,Red Zone
+Chengalpattu,Tamil Nadu,Red Zone
+Thiruvallur,Tamil Nadu,Red Zone
+Tiruppur,Tamil Nadu,Red Zone
+Rani pet,Tamil Nadu,Red Zone
+Virudhunagar,Tamil Nadu,Red Zone
+Thiruvarur,Tamil Nadu,Red Zone
+Ve II ore,Tamil Nadu,Red Zone
+Kanchipuram,Tamil Nadu,Red Zone
+Theni,Tamil Nadu,Orange Zone
+Tenkasi,Tamil Nadu,Orange Zone
+Nagapattinam,Tamil Nadu,Orange Zone
+Dindigul,Tamil Nadu,Orange Zone
+Villupuram,Tamil Nadu,Orange Zone
+Coimbatore,Tamil Nadu,Orange Zone
+Cuddalore,Tamil Nadu,Orange Zone
+Salem,Tamil Nadu,Orange Zone
+Karur,Tamil Nadu,Orange Zone
+Tuticorin,Tamil Nadu,Orange Zone
+Tiruchirappalli,Tamil Nadu,Orange Zone
+Tirupathur,Tamil Nadu,Orange Zone
+Kanniyakumari,Tamil Nadu,Orange Zone
+Tiruvannamalai,Tamil Nadu,Orange Zone
+Ramanathapuram,Tamil Nadu,Orange Zone
+Tirunelveli,Tamil Nadu,Orange Zone
+The Nilgiris,Tamil Nadu,Orange Zone
+Sivaganga,Tamil Nadu,Orange Zone
+Perambalur,Tamil Nadu,Orange Zone
+Kallakurichi,Tamil Nadu,Orange Zone
+Ariyalur,Tamil Nadu,Orange Zone
+Erode,Tamil Nadu,Orange Zone
+Pudukkottai,Tamil Nadu,Orange Zone
+Dharmapuri,Tamil Nadu,Orange Zone
+Krishnagiri,Tamil Nadu,Green Zone
+Hyderabad,Telangana,Red Zone
+Surya pet,Telangana,Red Zone
+Ranga Reddy,Telangana,Red Zone
+MedchalMalkajgiri,Telangana,Red Zone
+Vikarabad,Telangana,Red Zone
+Warangal Urban,Telangana,Red Zone
+Nizamabad,Telangana,Orange Zone
+JogulambaGadwal,Telangana,Orange Zone
+Nirmal,Telangana,Orange Zone
+Nalgonda,Telangana,Orange Zone
+Adilabad,Telangana,Orange Zone
+Sangareddy,Telangana,Orange Zone
+Kama reddy,Telangana,Orange Zone
+KumuramBheemAsifabad,Telangana,Orange Zone
+Karimnagar,Telangana,Orange Zone
+Khammam,Telangana,Orange Zone
+Mahabubnagar,Telangana,Orange Zone
+Jagitial,Telangana,Orange Zone
+RajannaSircilla,Telangana,Orange Zone
+JayashankarBhupalapa lly,Telangana,Orange Zone
+Medak,Telangana,Orange Zone
+Jangoan,Telangana,Orange Zone
+Narayanpet,Telangana,Orange Zone
+Manche rial,Telangana,Orange Zone
+Peddapalli,Telangana,Green Zone
+Nagarkurnool,Telangana,Green Zone
+Mulugu,Telangana,Green Zone
+BhadradriKothagudem,Telangana,Green Zone
+Mahabubabad,Telangana,Green Zone
+Siddipet,Telangana,Green Zone
+Warangal Rural,Telangana,Green Zone
+Wanaparthy,Telangana,Green Zone
+YadadriBhuvanagiri,Telangana,Green Zone
+North Tripura,Tripura,Orange Zone
+Gomati,Tripura,Orange Zone
+Dhalai,Tripura,Green Zone
+South Tripura,Tripura,Green Zone
+West Tripura,Tripura,Green Zone
+Khowai,Tripura,Green Zone
+Sepahijala,Tripura,Green Zone
+Unakoti,Tripura,Green Zone
+Agra,Uttar Pradesh,Red Zone
+Lucknow,Uttar Pradesh,Red Zone
+Saharanpur,Uttar Pradesh,Red Zone
+Kanpur Nagar,Uttar Pradesh,Red Zone
+Moradabad,Uttar Pradesh,Red Zone
+Firozabad,Uttar Pradesh,Red Zone
+Gautam Buddha Nagar,Uttar Pradesh,Red Zone
+Bulandshahr,Uttar Pradesh,Red Zone
+Meerut,Uttar Pradesh,Red Zone
+Rae Bareli,Uttar Pradesh,Red Zone
+Varanasi,Uttar Pradesh,Red Zone
+Bijnor,Uttar Pradesh,Red Zone
+Amroha,Uttar Pradesh,Red Zone
+Sant Kabeer Nagar,Uttar Pradesh,Red Zone
+Aligarh,Uttar Pradesh,Red Zone
+Muzaffarnagar,Uttar Pradesh,Red Zone
+Rampur,Uttar Pradesh,Red Zone
+Mathura,Uttar Pradesh,Red Zone
+Bareilly,Uttar Pradesh,Red Zone
+Ghaziabad,Uttar Pradesh,Orange Zone
+Hapur,Uttar Pradesh,Orange Zone
+Baghpat,Uttar Pradesh,Orange Zone
+Basti,Uttar Pradesh,Orange Zone
+Budaun,Uttar Pradesh,Orange Zone
+Sambhal,Uttar Pradesh,Orange Zone
+Auraiya,Uttar Pradesh,Orange Zone
+Sham Ii,Uttar Pradesh,Orange Zone
+Sitapur,Uttar Pradesh,Orange Zone
+Bahraich,Uttar Pradesh,Orange Zone
+Kannauj,Uttar Pradesh,Orange Zone
+Azamgarh,Uttar Pradesh,Orange Zone
+Mainpuri,Uttar Pradesh,Orange Zone
+Shravasti,Uttar Pradesh,Orange Zone
+Banda,Uttar Pradesh,Orange Zone
+Jaunpur,Uttar Pradesh,Orange Zone
+Etah,Uttar Pradesh,Orange Zone
+Kasganj,Uttar Pradesh,Orange Zone
+Sultanpur,Uttar Pradesh,Orange Zone
+Prayagraj,Uttar Pradesh,Orange Zone
+Jalaun,Uttar Pradesh,Orange Zone
+Mirzapur,Uttar Pradesh,Orange Zone
+Etawah,Uttar Pradesh,Orange Zone
+Pratapgarh,Uttar Pradesh,Orange Zone
+Ghazipur,Uttar Pradesh,Orange Zone
+Gonda,Uttar Pradesh,Orange Zone
+Mau,Uttar Pradesh,Orange Zone
+Bhadohi,Uttar Pradesh,Orange Zone
+Unnao,Uttar Pradesh,Orange Zone
+Pilibhit,Uttar Pradesh,Orange Zone
+Balrampur,Uttar Pradesh,Orange Zone
+Ayodhya,Uttar Pradesh,Orange Zone
+Gorakhpur,Uttar Pradesh,Orange Zone
+Jhansi,Uttar Pradesh,Orange Zone
+Hardoi,Uttar Pradesh,Orange Zone
+Kaushambi,Uttar Pradesh,Orange Zone
+Barabanki,Uttar Pradesh,Green Zone
+Kheri,Uttar Pradesh,Green Zone
+Hathras,Uttar Pradesh,Green Zone
+Maharajganj,Uttar Pradesh,Green Zone
+Shahjahanpur,Uttar Pradesh,Green Zone
+Ambedkar Nagar,Uttar Pradesh,Green Zone
+BaIlia,Uttar Pradesh,Green Zone
+Chandauli,Uttar Pradesh,Green Zone
+Chitrakoot,Uttar Pradesh,Green Zone
+Deoria,Uttar Pradesh,Green Zone
+Farrukhabad,Uttar Pradesh,Green Zone
+Fatehpur,Uttar Pradesh,Green Zone
+Hamirpur,Uttar Pradesh,Green Zone
+Kanpur Dehat,Uttar Pradesh,Green Zone
+Kushi Nagar,Uttar Pradesh,Green Zone
+Lalitpur,Uttar Pradesh,Green Zone
+Mahoba,Uttar Pradesh,Green Zone
+Siddharth Nagar,Uttar Pradesh,Green Zone
+Sonbhadra,Uttar Pradesh,Green Zone
+Amethi,Uttar Pradesh,Green Zone
+Haridwar,Uttarakhand,Red Zone
+Dehradun,Uttarakhand,Orange Zone
+Nainital,Uttarakhand,Orange Zone
+Udam Singh Nagar,Uttarakhand,Green Zone
+Almora,Uttarakhand,Green Zone
+Pauri Garhwal,Uttarakhand,Green Zone
+Bageshwar,Uttarakhand,Green Zone
+Chamoli,Uttarakhand,Green Zone
+Champawat,Uttarakhand,Green Zone
+Pithoraga rh,Uttarakhand,Green Zone
+RudraPrayag,Uttarakhand,Green Zone
+Tehri Garhwal,Uttarakhand,Green Zone
+Uttar Kashi,Uttarakhand,Green Zone
+Kolkata,West Bengal,Red Zone
+Howrah,West Bengal,Red Zone
+24 Paraganas North,West Bengal,Red Zone
+24 Paraganas South,West Bengal,Red Zone
+Medinipur West,West Bengal,Red Zone
+Medinipur East,West Bengal,Red Zone
+Darjeeling,West Bengal,Red Zone
+Jalpaiguri,West Bengal,Red Zone
+Kalimpong,West Bengal,Red Zone
+Maldah,West Bengal,Red Zone
+Hooghly,West Bengal,Orange Zone
+Paschim Bardhaman,West Bengal,Orange Zone
+Nadia,West Bengal,Orange Zone
+Purba Bardhaman,West Bengal,Orange Zone
+Murshidabad,West Bengal,Orange Zone
+Dinajpur Uttar,West Bengal,Green Zone
+Bankura,West Bengal,Green Zone
+Birbhum,West Bengal,Green Zone
+Coochbehar,West Bengal,Green Zone
+Dinajpur Dakshin,West Bengal,Green Zone
+Purulia,West Bengal,Green Zone
+Alipurduar,West Bengal,Green Zone
+Jhargram,West Bengal,Green Zone
